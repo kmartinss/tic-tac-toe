@@ -11,6 +11,12 @@ Este é um projetinho simples de **Jogo da Velha (Tic Tac Toe)** desenvolvido co
 
 O jogo permite que dois jogadores joguem alternadamente em uma grade 3x3 e detecta automaticamente o vencedor.
 
+![image](https://github.com/user-attachments/assets/eb95906d-7231-48a7-99b7-31e1228f1907)
+
+![image](https://github.com/user-attachments/assets/b1072938-e484-4ef3-a4bd-6c70d73728b8)
+
+
+
 ---
 
 ## 🚀 Tecnologias utilizadas
