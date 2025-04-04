@@ -48,4 +48,3 @@ npm install
 # Rode o projeto
 npm start
 
-![alt text](image.png)
